@@ -1,0 +1,9 @@
+.idea/
+/vendor
+.gitlab-deploy.sh
+.composer.lock
+.geoip.mmdb
+/public/pdf
+# Elastic Beanstalk Files
+*.env
+.env
